@@ -1,0 +1,14 @@
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\bin\Debug\net8.0\Game_4znsch_1.exe
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\bin\Debug\net8.0\Game_4znsch_1.deps.json
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\bin\Debug\net8.0\Game_4znsch_1.runtimeconfig.json
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\bin\Debug\net8.0\Game_4znsch_1.dll
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\bin\Debug\net8.0\Game_4znsch_1.pdb
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.AssemblyInfoInputs.cache
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.AssemblyInfo.cs
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.csproj.CoreCompileInputs.cache
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.dll
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\refint\Game_4znsch_1.dll
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.pdb
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\Game_4znsch_1.genruntimeconfig.cache
+F:\3 курс\ТиОПО\Game_4znsch\Game_4znsch_1\obj\Debug\net8.0\ref\Game_4znsch_1.dll
